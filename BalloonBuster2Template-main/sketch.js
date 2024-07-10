@@ -105,6 +105,7 @@ function draw() {
       // //stop background movement
        scene.velocityX = 0;
        red.velocityX = 0;
+   
   }
 
 if (frameCount>1000) {
